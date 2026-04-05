@@ -1,0 +1,2 @@
+# CiscoPacketTracer-project-19-Secured-Three-Subnet-Network-Router-on-a-Stick-with-Password-Protection
+I’m excited to share my latest Cisco Packet Tracer project – a three‑subnet routed network featuring a router (with interfaces on 192.168.1.0/24, 192.168.2.0/24, 192.168.3.0/24), a 2960 switch, two client PCs (Client02 – 192.168.1.200, PC1 – 192.168.1.10/24), and a server (Server3 – 192.168.3.254).
